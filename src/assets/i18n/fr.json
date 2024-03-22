@@ -355,7 +355,7 @@
       },
       "FORM": {
         "IS_AUTO_IMPORT_ISSUES": "Ajouter automatiquement les issues non résolus de GitHub au backlog",
-        "IS_AUTO_POLL": "Surveiller periodiquement les issues git importés pour avoir les modifications",
+        "IS_AUTO_POLL": "Surveiller périodiquement les issues git importés pour avoir les modifications",
         "IS_SEARCH_ISSUES_FROM_GITHUB": "Afficher les issues de git sous forme de suggestions lors de l'ajout de nouvelles tâches",
         "REPO": "\"nom d'utilisateur / nom du repository\" pour le repository git que vous souhaitez suivre"
       },
@@ -363,7 +363,7 @@
         "AUTO_ADD_BACKLOG_JQL_QUERY": "JQL utilisé pour ajouter des tâches automatiquement au backlog",
         "IS_ADD_WORKLOG_ON_SUB_TASK_DONE": "Ouvrir la boîte de dialogue pour soumettre à Jira le temps de travail lorsque la sous-tâche est terminée",
         "IS_AUTO_IMPORT_ISSUES": "Ajouter automatiquement les tickets au backlog de Jira",
-        "IS_AUTO_POLL_TICKETS": "Surveiller periodiquement les modifications apportées aux tickets importés et m'en informer",
+        "IS_AUTO_POLL_TICKETS": "Surveiller périodiquement les modifications apportées aux tickets importés et m'en informer",
         "IS_CHECK_TO_RE_ASSIGN_TICKET_ON_TASK_START": "Vérifier si le ticket actuellement traité est affecté à l'utilisateur actuel",
         "IS_WORKLOG_ENABLED": "Ouvrir la boîte de dialogue pour soumettre à jira le temps de travail lorsque la tâche est terminée",
         "SEARCH_JQL_QUERY": "Requête JQL pour limiter la recherche des tâches",
@@ -840,7 +840,7 @@
         "CONFIRM_REPEAT_TXT": "Vous essayez de programmer cette tâche répétée à un autre jour. Les tâches répétées sont généralement destinées à être recréées à des jours spécifiés et planifiées uniquement ce jour-là. Voulez-vous continuer malgré tout ?",
         "DATETIME_FOR": "Date et heure du rappel",
         "EDIT": "Modifier le rappel",
-        "MOVE_TO_BACKLOG": "Déplacer la tâche dans le backlog en atendant la planification",
+        "MOVE_TO_BACKLOG": "Déplacer la tâche dans le backlog en attendant la planification",
         "REMIND_AT": "Rappeler à",
         "RO_10M": "10 minutes avant le début",
         "RO_15M": "15 minutes avant le début",
